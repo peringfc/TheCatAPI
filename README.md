@@ -8,3 +8,18 @@
 |List_Racas  			|POST​/List_Racas`					| Lista todas as raças com nome e ID
 |ListOrigin 			|GET​/ListOrigin						| Lista todas todas as origens com a quantidade de raça relacionadas
 |						|POST​/ListOrigin					|as raça de acordo com a origem selecionada podendo utilizar nome do Pais ou Sigla exemplo **Egypt** ou Sigla **EG**
+
+
+
+
+|Configurações| Links |
+|--|--|
+| **API**  | [Git Fontes](https://github.com/peringfc/TheCatAPI)  |
+| **DLL**  | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib)  |
+|**Angular** | [Git Fontes](https://github.com/peringfc/TheCatAPIAngular)  |
+| Print **Angular**  | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib/blob/master/Documents/Imagens/angular_01.png)  |
+| **Documentação** | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib/tree/master/Documents)  |
+|**Printers de Telas** | [Git Printers](https://github.com/peringfc/TheCatAPI_Lib/tree/master/Documents/Imagens)  |
+| Print **API**  | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib/blob/master/Documents/Imagens/API_003_json.png)  |
+| **PostMan**  | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib/tree/master/Documents/Postman)  |
+| **Docker Compose  Ambiente** | [Git Fontes](https://github.com/peringfc/TheCatAPI_Lib/blob/master/Documents/DockerComposer.md)  |
